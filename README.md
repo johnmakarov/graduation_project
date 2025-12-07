@@ -13,11 +13,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="100" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="100" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="100" width="100"/>
-  <code><img width="13%" title="Selene" src="data/logo/selene.png" alt="selene"/></code>
-  <code><img width="13%" title="Allure Report" src="data/logo/allure_report.png" alt="allure"></code>
-  <code><img width="13%" title="Allure Report" src="data/logo/allure_testops.png" alt="alluretest"></code>
-  <code><img width="13%" title="Allure Report" src="data/logo/selenoid.png" alt="selenoid"></code>
-  <code><img width="13%" title="Allure Report" src="data/logo/tg.png" alt="tg"></code>
+  <code><img width="13%" title="Selene" src="static/logo/selene.png" alt="selene"/></code>
+  <code><img width="13%" title="Allure Report" src="static/logo/allure_report.png" alt="allure"></code>
+  <code><img width="13%" title="Allure Report" src="static/logo/allure_testops.png" alt="alluretest"></code>
+  <code><img width="13%" title="Allure Report" src="static/logo/selenoid.png" alt="selenoid"></code>
+  <code><img width="13%" title="Allure Report" src="static/logo/tg.png" alt="tg"></code>
 </p>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" width="20"> Запуск тестов локально
@@ -33,30 +33,30 @@
 2) Перейти в джобу https://jenkins.autotests.cloud/job/MozzhukhinRA_graduation_project_ui
 3) Для запуска тестов в Jenkins нажать "Build Now"
 
-<p><img title="jenkins_build" src="data/logo/jen1.png"></p>
+<p><img title="jenkins_build" src="static/logo/jen1.png"></p>
 
-## <img width="4%" title="allure" src="data/logo/allure_report.png"> Визуализация результатов (Allure Reports и Allure TestOps)
+## <img width="4%" title="allure" src="static/logo/allure_report.png"> Визуализация результатов (Allure Reports и Allure TestOps)
 
 Для просмотра результатов тестового прогона в Allure клик на соответствующую ему иконку
 
-<p><img title="allure" src="data/logo/img.png"></p>
-<p><img title="allure" src="data/logo/img_allure.png"></p>
-<p><img title="allure" src="data/logo/img_allure_2.png"></p>
+<p><img title="allure" src="static/logo/img.png"></p>
+<p><img title="allure" src="static/logo/img_allure.png"></p>
+<p><img title="allure" src="static/logo/img_allure_2.png"></p>
 
 
 
 Для просмотра результатов тестового прогона в Allure TestOps кликнув на соответствующую ему иконку в джобе Jenkins
 
-<p><img title="allure_testops" src="data/logo/job_testops.png"></p>
-<p><img title="allure_testops" src="data/logo/img_testops.png"></p>
+<p><img title="allure_testops" src="static/logo/job_testops.png"></p>
+<p><img title="allure_testops" src="static/logo/img_testops.png"></p>
 
 Так же проверить аттачменты - логи, скриншот, видео. Можно, перейдя в раздел "Запуски", завершить Job и провалиться в него
 
-<p><img title="allure_testops" src="data/logo/job.png"></p>
-<p><img title="allure_testops" src="data/logo/attach.png"></p>
+<p><img title="allure_testops" src="static/logo/job.png"></p>
+<p><img title="allure_testops" src="static/logo/attach.png"></p>
 
 
 
-## <img width="4%" title="tg" src="data/logo/tg.png"> Интеграция с Telegram в Jenkins для автоматической отправки результатов тестового прогона через бота
+## <img width="4%" title="tg" src="static/logo/tg.png"> Интеграция с Telegram в Jenkins для автоматической отправки результатов тестового прогона через бота
 
-<p><img title="telegram" src="data/logo/report_tg.png"></p>
+<p><img title="telegram" src="static/logo/report_tg.png"></p>
